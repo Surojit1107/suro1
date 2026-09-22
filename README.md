@@ -1,5 +1,8 @@
 # Teacher
 Surojit Nandi
 
-# line
-Cricket is my fevourite game 
+# Favourite game 
+Cricket is my favourite game .
+
+# favourite crickerer
+Virat kohli.
